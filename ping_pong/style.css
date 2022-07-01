@@ -1,0 +1,24 @@
+* {
+    font-family: Tahoma;
+    color: #fff;
+}
+
+body {
+    text-align: center;
+    background-color: #4d135e;
+}
+
+.jugador {
+    display: flex;
+    width: 600px;
+    margin: 2rem auto 0;
+    justify-content: space-between;
+    font-size: 2rem;
+    font-family: fantasy;
+}
+
+#canvas {
+    border: 2px solid;
+    background-color: #2b8a33d0;
+    margin: 2rem auto 0;
+}
